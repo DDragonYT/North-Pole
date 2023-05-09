@@ -1,0 +1,32 @@
+body {
+    background: #f5f0f0;
+    color: #502929;
+    font-family: "Segoe UI",Tahoma,Arial,Verdana,sans-serif;
+}
+
+.title{
+    text-align: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+#map { height: 180px; }
+
+.center {
+  overflow-wrap: break-word;
+  margin: auto;
+  width: 75%;
+  border: 0px solid rgb(255, 255, 255);
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.box {
+  overflow-wrap: break-word;
+  margin: auto;
+  width: 50%;
+  border: 3px solid rgb(0, 0, 0);
+  border-radius: 5px;
+  padding: 10px;
+}
+
